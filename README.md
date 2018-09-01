@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a prototypal Voice Processor written entirely in Java, which shows as Proof of Concept the enhancement of voice samples stemming from an audio file or a microphone recording with regard to clarity, understandability and sound. Prior to the enhancement, the base frequency of the user's voice is determined by a Voice Profiler. This project has been commissioned by and carried out for the Audio Branding Agency [Why Do Birds](https://www.whydobirds.de).
+This is a prototypal Voice Processor written entirely in Java, which shows as Proof of Concept the enhancement of voice samples stemming from an audio file or a microphone recording with regard to clarity, understandability and sound. Prior to the enhancement, the base frequency of the user's voice is determined by a Voice Profiler.
 
 ## How to get stared
 
